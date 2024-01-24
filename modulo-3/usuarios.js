@@ -1,0 +1,1 @@
+let c = "Jámas te rindas"; 
